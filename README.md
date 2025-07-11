@@ -24,9 +24,9 @@
 
 <br>
  <div style="text-align: right;">
- <img align="left" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-vl&layout=compact&theme=gruvbox"/>
+ <img align="left" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-vl&theme=gruvbox"/>
 
-  <img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=roger-vl&hide=contribs,issues&show_icons=true&theme=gruvbox" />
+  <img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=roger-vl&show_icons=true&theme=gruvbox" />
 </div>
 
 
